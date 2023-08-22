@@ -7,6 +7,7 @@ into road accidents in the United Kingdom. By leveraging Excel's features, such 
 this project aims to enhance road safety analysis and decision-making.
 
 Objectives:
+
 Data Gathering and Transformation: 🔄 Consolidate raw accident data from diverse sources into an accessible format.
 Interactive Exploration: 🕵🔍 Enable users to interactively explore data through filters, groups, and aggregations.
 Visual Representation: 📈 Visualize accident trends, distribution, and correlations through charts, graphs, and maps.
@@ -17,6 +18,7 @@ Automated Reports: 📈 Generate customizable reports summarizing key findings.
 Accident Prevention: 🚗 Inform policies and interventions for safer roadways.
 
 Benefits:
+
 Informed Decision-Making: 🚦 Make informed choices for road safety initiatives based on data-driven insights.
 Resource Efficiency: 💡 Optimize resource allocation for targeted safety interventions.
 Public Awareness: 🚸 Raise awareness through insightful reports shared with the public.
