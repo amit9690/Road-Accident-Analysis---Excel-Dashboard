@@ -51,11 +51,10 @@ Depending on the timeframe and geographical scope of your road accident dataset,
 Designing an effective and user-friendly Excel dashboard requires careful consideration of the visualizations and layout. You'll need to choose the right charts and graphs to convey the insights from your data. Ensuring that the dashboard is easy to understand and navigate is essential, as it's meant to be used by various stakeholders, some of whom may not be data-savvy. Creating interactive elements and providing clear labels and explanations can be a challenge to balance with aesthetics and space constraints in Excel.
 
 
-
 ##### If you have any queries regarding this project feel free to contact me over Linkedin 🌐 - https://bit.ly/3QLfBEz
 
 
-* #### 🤝 __Thank You for visiting my project page.__
+#### 🤝 __Thank You for visiting my project page.__
 
 
 
