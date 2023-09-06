@@ -3,9 +3,9 @@
 
 ## Project Description 📝:
 
-The "UK Road Accident Analysis Dashboard" is a dynamic Excel tool 📊🗺️ that offers valuable insights 
-into road accidents in the United Kingdom. By leveraging Excel's features, such as Pivot Tables, Slicers, and maps 🗺️📈, 
-this project aims to enhance road safety analysis and decision-making.
+The "UK Road Accident Analysis Dashboard" is a dynamic Excel tool 📊 that offers valuable insights 
+into road accidents in the United Kingdom. By leveraging Excel's features, such as Pivot Tables, Slicers, and maps , 
+this project aims to enhance road safety analysis and decision-making 📈.
 
 ## Objectives 🎯:
 
@@ -52,10 +52,10 @@ Designing an effective and user-friendly Excel dashboard requires careful consid
 
 
 
-##### If you have any queries regarding this project feel free to contact me over Linkedin - https://bit.ly/3QLfBEz
+##### If you have any queries regarding this project feel free to contact me over Linkedin 🌐 - https://bit.ly/3QLfBEz
 
 
-* #### __Thank You for visiting my project page.__
+* #### 🤝 __Thank You for visiting my project page.__
 
 
 
